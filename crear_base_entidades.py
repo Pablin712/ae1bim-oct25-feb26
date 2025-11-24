@@ -1,5 +1,5 @@
 """
-Definición de las entidades del sistema de investigación académica
+Definición de las entidades del sistema de gestión académica educativa
 """
 from sqlalchemy import Column, Integer, String, ForeignKey, Date
 from sqlalchemy.orm import relationship
